@@ -1,7 +1,9 @@
 # Shinethemes---Silkshine
 A one page Bootstrap Multipurpose Responsive Theme by Shinethemes
+ Bootstrap Theme Silkshine is a one page HTML Template. Develop your onepage website for company, Hotels, Restaurants, Real Estate etc. Show your team members for company. This theme is made of Bootstrap 3.3.6. Bootstrap means there is no need to worry about Different screens.
 
 Silkshine(http://shinethemes.com/free-bootstrap-theme-silkshine) is a one page multipurpose theme created by shinethemes(http://shinethemes.com)
+
 
 
 ## Getting Started
